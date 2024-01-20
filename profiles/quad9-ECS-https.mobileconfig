@@ -23,6 +23,8 @@
 			<string>Configures device to use Quad9 Encrypted DNS over HTTPS with ECS</string>
 			<key>PayloadDisplayName</key>
 			<string>Quad9 DNS over HTTPS with ECS</string>
+                        <key>PayloadScope</key>
+			<string>System</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.1a93b54b-8541-4536-8302-c08159ca9184</string>
 			<key>PayloadType</key>
